@@ -1,16 +1,22 @@
 ---
-name: Tails Azimuth
+name: Mukhammadyusuf Abdurakhimov
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+company: EPAM Systems
+email: icoderx@yandex.com
+twitter: https://twitter.com/iCoderx
+linkedin: https://www.linkedin.com/in/mrabdurakhimov
+github: https://github.com/mrabdurakhimov
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+My profession as a Developer came out from my youth, wondering about how all of the programs intended to make individuals' lives simpler was made. When I was a 6-year-old child my father purchased a PC and when I first played a game on it, the one thing that popped into my mind was "How could it be made?" and asking my father whether he could make a game. My journey began...
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+The standards behind my objective in life are never stopping to develop and keeping my skills updated with the most recent advances in Technology. Putting enormous aims and pursuing them as quickly as could really be expected.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm extremely enthusiastic about what we do because we in our group assemble and convey new inventive innovations that are making the world a superior spot for humankind.
+
+Since my first job landed I have made countless companions in the business of Technology. I genuinely accept now is feasible to acquire the outcomes you need on the off chance that you really need it.
+
+I have taught 500+ students how to code face to face and online with genuine answers for existing issues. Assisted 5+ new companies with scaling starting from the earliest stage.
+
+Inspired to make changes happen.
