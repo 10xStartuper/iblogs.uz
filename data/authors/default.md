@@ -1,5 +1,5 @@
 ---
-name: Mukhammadyusuf Abdurakhimov
+name: M. Abdurakhimov
 avatar: /static/images/avatar.png
 occupation: Software Engineer
 company: EPAM Systems
